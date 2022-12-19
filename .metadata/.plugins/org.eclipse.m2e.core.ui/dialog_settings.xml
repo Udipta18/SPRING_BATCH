@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\dasud\Documents\jwt-youtube-master"/>
+			<item value="C:\Users\dasud\Downloads\jwt-youtube-master\jwt-youtube-master"/>
+			<item value="C:\Users\dasud\Downloads\jwt-youtube-master"/>
+			<item value="C:\Users\dasud\Downloads\ApiGateway"/>
+			<item value="C:\Users\dasud\Downloads\RatingService"/>
+			<item value="C:\Users\dasud\Downloads\ConfigServer"/>
+			<item value="C:\Users\dasud\Downloads\UserService"/>
+			<item value="C:\Users\dasud\Downloads\ServiceRegostry"/>
+			<item value="C:\Users\dasud\Downloads\HotelMNicroService"/>
+			<item value="C:\Users\dasud\Downloads\usermicroService"/>
+			<item value="C:\Users\dasud\Downloads\ratingmicroService"/>
+			<item value="C:\Users\dasud\Downloads\hotelmicroService"/>
+			<item value="C:\Users\dasud\OneDrive\Documents\Stop-Job-with-REST-API"/>
+			<item value="C:\Users\dasud\OneDrive\Documents\Tasklet-Chunk-Oriented-Steps-Together"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

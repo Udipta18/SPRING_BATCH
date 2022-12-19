@@ -1,0 +1,28 @@
+package com.youtube.jwt.entity;
+
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.ManyToOne;
+
+import org.hibernate.annotations.CreationTimestamp;
+
+@Entity
+public class Complaint {
+	
+	private String complaintId;
+	
+	@ManyToOne(fetch = FetchType.EAGER)
+	private String UserId;
+	
+	private String Description;
+	
+	@Column(nullable = false, updatable = false)
+	@CreationTimestamp
+	private Date complainedAt;
+	
+	
+
+}

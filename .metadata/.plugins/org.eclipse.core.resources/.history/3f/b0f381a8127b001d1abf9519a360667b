@@ -1,0 +1,14 @@
+package com.youtube.jwt.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.youtube.jwt.dao.ComplaintDao;
+
+@Service
+public class ComplaintService {
+
+	@Autowired
+	private ComplaintDao complaintDao;
+	
+}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete 2 resources" deleteContents="true" description="Delete 2 resources" element1="/JAVA8-FEATURES-java8" element2="/Java8Features" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1661505634943"/>&#x0A;<refactoring comment="Delete resource &apos;JAVA8-FEATURES-java8&apos;" deleteContents="false" description="Delete resource &apos;JAVA8-FEATURES-java8&apos;" element1="/JAVA8-FEATURES-java8" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1661505684906"/>
+</session>

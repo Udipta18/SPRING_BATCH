@@ -1,0 +1,20 @@
+package com.youtube.jwt.controller;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.youtube.jwt.entity.Complaint;
+
+@RestController
+@RequestMapping("/Complaint")
+public class ComplaintController {
+	
+	
+	
+	public ResponseEntity<Object> registerComplaint(@RequestBody Complaint com){
+		
+	}
+
+}
